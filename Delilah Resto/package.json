@@ -16,7 +16,7 @@
       "XAMPP",
       "nodeJS"
     ],
-    "author": "benjaminpla.dev@gmail.com",
+    "author": "jfdev@gmail.com",
     "license": "ISC",
     "dependencies": {
       "dotenv": "^10.0.0",
